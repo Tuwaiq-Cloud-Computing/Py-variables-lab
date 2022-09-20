@@ -16,17 +16,9 @@ Question 2:
 - Print the entire list
 - Print the first element 
 - print the last element 
-- add an element to the end of list
-- remove an element from the list
-- reverse the list
-- sort the list 
-- add an element at the start of the list
-- print the index of the last element
+
 
 
 Question 3:
-- Make a dictionary of 5 people, the dictionary should contain information such as: name, phone_number
+- Make a dictionary with 5 people, the dictionary should contain information such as: name, phone_number
 - Print the dictionary
-- print the number of the last person
-- now add 1 more person to the dictionary 
-- now delete the first person from the dictionary 
