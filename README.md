@@ -20,5 +20,5 @@ Question 2:
 
 
 Question 3:
-- Make a dictionary with 5 people, the dictionary should contain information such as: name, phone_number
+- Make a list of 5 dictionaries. Each dictionary should contain information such as: name, phone_number
 - Print the dictionary
